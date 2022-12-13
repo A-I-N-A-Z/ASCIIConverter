@@ -1,0 +1,18 @@
+C:\Users\ainaz\source\repos\ASCIIConverter\ASCIIConverter\bin\Debug\ASCIIConverter.exe.config
+C:\Users\ainaz\source\repos\ASCIIConverter\ASCIIConverter\bin\Debug\ASCIIConverter.exe
+C:\Users\ainaz\source\repos\ASCIIConverter\ASCIIConverter\bin\Debug\ASCIIConverter.pdb
+C:\Users\ainaz\source\repos\ASCIIConverter\ASCIIConverter\obj\Debug\ASCIIConverter.csproj.AssemblyReference.cache
+C:\Users\ainaz\source\repos\ASCIIConverter\ASCIIConverter\obj\Debug\ASCIIConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\ainaz\source\repos\ASCIIConverter\ASCIIConverter\obj\Debug\ASCIIConverter.csproj.ResolveComReference.cache
+C:\Users\ainaz\source\repos\ASCIIConverter\ASCIIConverter\obj\Debug\ASCIIConverter.csproj.CoreCompileInputs.cache
+C:\Users\ainaz\source\repos\ASCIIConverter\ASCIIConverter\obj\Debug\ASCIIConverter.exe
+C:\Users\ainaz\source\repos\ASCIIConverter\ASCIIConverter\obj\Debug\ASCIIConverter.pdb
+C:\Users\ainaz\OneDrive\Рабочий стол\файлы\c#\ASCIIConverter\ASCIIConverter\bin\Debug\ASCIIConverter.exe.config
+C:\Users\ainaz\OneDrive\Рабочий стол\файлы\c#\ASCIIConverter\ASCIIConverter\bin\Debug\ASCIIConverter.exe
+C:\Users\ainaz\OneDrive\Рабочий стол\файлы\c#\ASCIIConverter\ASCIIConverter\bin\Debug\ASCIIConverter.pdb
+C:\Users\ainaz\OneDrive\Рабочий стол\файлы\c#\ASCIIConverter\ASCIIConverter\obj\Debug\ASCIIConverter.csproj.AssemblyReference.cache
+C:\Users\ainaz\OneDrive\Рабочий стол\файлы\c#\ASCIIConverter\ASCIIConverter\obj\Debug\ASCIIConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\ainaz\OneDrive\Рабочий стол\файлы\c#\ASCIIConverter\ASCIIConverter\obj\Debug\ASCIIConverter.csproj.ResolveComReference.cache
+C:\Users\ainaz\OneDrive\Рабочий стол\файлы\c#\ASCIIConverter\ASCIIConverter\obj\Debug\ASCIIConverter.csproj.CoreCompileInputs.cache
+C:\Users\ainaz\OneDrive\Рабочий стол\файлы\c#\ASCIIConverter\ASCIIConverter\obj\Debug\ASCIIConverter.exe
+C:\Users\ainaz\OneDrive\Рабочий стол\файлы\c#\ASCIIConverter\ASCIIConverter\obj\Debug\ASCIIConverter.pdb
